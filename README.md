@@ -12,4 +12,4 @@ Peripheral Drivers: Provides pre-built drivers for essential peripherals, enabli
 Example Code: A comprehensive collection of example code and usage scenarios to guide developers in implementing various functionalities.
 
 
-This library is currently untested.
+This library is currently untested in a real PCB.
